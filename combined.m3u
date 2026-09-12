@@ -1,21 +1,12 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10800
-#EXT-X-MEDIA-SEQUENCE:0
-
-#EXTINF:-1, Single Combined Video - Part 1
+#EXTINF:-1, Combined Video Part 01
 https://github.com/mdmahabub1m/MYVEDIO1/releases/download/v1.0/1.1.mp4
 
-#EXT-X-DISCONTINUITY
-#EXTINF:-1, Single Combined Video - Part 2
+#EXTINF:-1, Combined Video Part 02
 https://github.com/mdmahabub1m/MYVEDIO1/releases/download/v1.0/1.2.mp4
 
-#EXT-X-DISCONTINUITY
-#EXTINF:-1, Single Combined Video - Part 3
+#EXTINF:-1, Combined Video Part 03
 https://github.com/mdmahabub1m/MYVEDIO1/releases/download/v1.0/1.3.mp4
 
-#EXT-X-DISCONTINUITY
-#EXTINF:-1, Single Combined Video - Part 4
+#EXTINF:-1, Combined Video Part 04
 https://github.com/mdmahabub1m/MYVEDIO1/releases/download/v1.0/1.4.mp4
-
-#EXT-X-ENDLIST
