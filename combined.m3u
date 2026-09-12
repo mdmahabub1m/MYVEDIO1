@@ -1,0 +1,21 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10800
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:-1, Single Combined Video - Part 1
+https://drive.google.com/uc?export=media&id=1mTJu84T35yDdZHQm0COOxEuW4UkmX9Bo
+
+#EXT-X-DISCONTINUITY
+#EXTINF:-1, Single Combined Video - Part 2
+https://drive.google.com/uc?export=media&id=1MnrtyJwIQNalTyRhnbwdHHd5FJcVq2t8
+
+#EXT-X-DISCONTINUITY
+#EXTINF:-1, Single Combined Video - Part 3
+https://drive.google.com/uc?export=media&id=1qxr2DtNG0aOf-IaYpAvWvKr4F2kNZtcY
+
+#EXT-X-DISCONTINUITY
+#EXTINF:-1, Single Combined Video - Part 4
+https://drive.google.com/uc?export=media&id=1SwDj6Hsfa5aWVuf2f8ABriqdqqXuedRr
+
+#EXT-X-ENDLIST
